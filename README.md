@@ -3,6 +3,7 @@ Getting Started
 
 * ensure [Node](http://nodejs.org) is installed
 * `npm install` downloads dependencies
-* `npm run compile` performs a one-time compilation, generating `dist/bundle.js`
-* `npm start` automatically recompiles while monitoring code changes
+* `npm start` launches development mode, serving the application at
+  <http://localhost:8000/index.html> and automatically recompiling while
+  monitoring code changes
 * `npm test` checks code for stylistic consistency
