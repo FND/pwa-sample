@@ -1,3 +1,9 @@
+PWA Explorations
+================
+
+see [PWA notes](docs/pwa.md) for general observations
+
+
 Getting Started
 ---------------
 
